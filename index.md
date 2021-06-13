@@ -4,12 +4,12 @@ layout: default
 permalink: /index.html
 ---
 
-<script async src="https://cdn.jsdelivr.net/gh/liuxfe/assets/main.min.js"></script>
-
-
 - [C/C++面向WebAssembly编程](/cppwasm/zh/)
 - [Rust开发WebAssmbly技术](/rustwasm/)
 
+
+
+<script async src="https://cdn.jsdelivr.net/gh/liuxfe/assets/main.min.js"></script>
 <!--  -->
 <ins class="adsbygoogle"
      style="display:block"
